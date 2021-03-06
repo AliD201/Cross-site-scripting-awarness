@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Cross-site-scripting-awarness/static/css/main.fad0a2ae.chunk.css",
-    "main.js": "/Cross-site-scripting-awarness/static/js/main.90044ab9.chunk.js",
-    "main.js.map": "/Cross-site-scripting-awarness/static/js/main.90044ab9.chunk.js.map",
+    "main.js": "/Cross-site-scripting-awarness/static/js/main.02721542.chunk.js",
+    "main.js.map": "/Cross-site-scripting-awarness/static/js/main.02721542.chunk.js.map",
     "runtime-main.js": "/Cross-site-scripting-awarness/static/js/runtime-main.a2cdae76.js",
     "runtime-main.js.map": "/Cross-site-scripting-awarness/static/js/runtime-main.a2cdae76.js.map",
     "static/css/2.fe359a49.chunk.css": "/Cross-site-scripting-awarness/static/css/2.fe359a49.chunk.css",
-    "static/js/2.170bbcc2.chunk.js": "/Cross-site-scripting-awarness/static/js/2.170bbcc2.chunk.js",
-    "static/js/2.170bbcc2.chunk.js.map": "/Cross-site-scripting-awarness/static/js/2.170bbcc2.chunk.js.map",
+    "static/js/2.576c2254.chunk.js": "/Cross-site-scripting-awarness/static/js/2.576c2254.chunk.js",
+    "static/js/2.576c2254.chunk.js.map": "/Cross-site-scripting-awarness/static/js/2.576c2254.chunk.js.map",
     "static/js/3.a5160043.chunk.js": "/Cross-site-scripting-awarness/static/js/3.a5160043.chunk.js",
     "static/js/3.a5160043.chunk.js.map": "/Cross-site-scripting-awarness/static/js/3.a5160043.chunk.js.map",
     "index.html": "/Cross-site-scripting-awarness/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/Cross-site-scripting-awarness/static/css/2.fe359a49.chunk.css.map",
     "static/css/main.fad0a2ae.chunk.css.map": "/Cross-site-scripting-awarness/static/css/main.fad0a2ae.chunk.css.map",
-    "static/js/2.170bbcc2.chunk.js.LICENSE.txt": "/Cross-site-scripting-awarness/static/js/2.170bbcc2.chunk.js.LICENSE.txt",
+    "static/js/2.576c2254.chunk.js.LICENSE.txt": "/Cross-site-scripting-awarness/static/js/2.576c2254.chunk.js.LICENSE.txt",
     "static/media/homepage.scss": "/Cross-site-scripting-awarness/static/media/mesh2.a4cf7707.jpg",
     "static/media/App.scss": "/Cross-site-scripting-awarness/static/media/tbn_copy.4499fc39.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2cdae76.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.170bbcc2.chunk.js",
+    "static/js/2.576c2254.chunk.js",
     "static/css/main.fad0a2ae.chunk.css",
-    "static/js/main.90044ab9.chunk.js"
+    "static/js/main.02721542.chunk.js"
   ]
 }
