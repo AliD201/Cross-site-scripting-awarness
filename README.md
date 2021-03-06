@@ -1,3 +1,9 @@
+# Cross-site-scripting-awarness  
+This project has been build to aware the users about cross site scripting attack,SQL injection and phishing. 
+
+this only includes the "cross site scripting" part of the project. since the rest have been developed using different technologies. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
