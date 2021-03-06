@@ -1,10 +1,35 @@
 body {
+  /* height: 100%; */
+  min-height: 100%;
+
+  /* width: 100%; */
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  /*   padding: 0; */
+  /* background-attachment: fixed; */
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  /* background: linear-gradient(to bottom, #ffffff, #2597c4, #c4bfbf); */
+  /* background: linear-gradient(to bottom, #ffffff, #c4bfbf); */
+ 
+  /* background: url('./images/wp4770069-encryption-wallpapers.jpg'); */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  /* background: -webkit-linear-gradient(to bottom, #ffffff, #c4bfbf);
+  background: -moz-linear-gradient(to bottom, #ffffff, #c4bfbf);
+  background: -ms-linear-gradient(to bottom, #ffffff, #c4bfbf);
+  background: -o-linear-gradient(to bottom, #ffffff, #c4bfbf); */
+}
+html {
+  /* height: 100%; */
+  min-height: 100%;
+  margin: 0;
+  
 }
 
 code {

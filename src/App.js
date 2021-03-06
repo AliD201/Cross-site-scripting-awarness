@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.scss";
+import XSS from './XSS'
+import HomePage from './HomePage'
+import './transition.min.css'
+import './loading.min.css'
+import {Route,  Switch} from 'react-router-dom'
+// import {BrowserRouter as Router} from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom'
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <header className="App-header"></header> */}
+
+      <Router >
+      <Switch>
+        <Route path="/" exact  component={HomePage} />
+        <Route path="/XSS" exact  component={XSS} />
+      </Switch>
+    </Router>
+
+      
     </div>
   );
 }
